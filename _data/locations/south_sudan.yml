@@ -5,7 +5,7 @@ users:
     name: "Mathew Yelose"
     login: "mathyeoyel"
     avatarUrl: https://avatars.githubusercontent.com/u/103266724?u=1cc67f209f0ef8ce8077c1e94704556cbfa0dd9c&v=4
-    contributions: 137
+    contributions: 155
     company: "VikraHub"
     organizations: ""
 
@@ -50,14 +50,6 @@ users:
     organizations: ""
 
   - rank: 7
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 1
-    company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 8
     name: "Chewaka fikadu "
     login: "chewaka14"
     avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
@@ -65,20 +57,28 @@ users:
     company: ""
     organizations: ""
 
+  - rank: 8
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
+    contributions: 1
+    company: "Ram Talent co."
+    organizations: ""
+
   - rank: 9
+    name: "Dr Jacob Akuochpiir Achuoth Kok"
+    login: "jacobkok197"
+    avatarUrl: https://avatars.githubusercontent.com/u/242204003?u=85c0798eeb299eed54a6a4d5a7a6083c201720ec&v=4
+    contributions: 1
+    company: "Ministry of Health - South Sudan"
+    organizations: ""
+
+  - rank: 10
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
-    organizations: ""
-
-  - rank: 10
-    name: "gatkouth nyuel"
-    login: "gatkouth20"
-    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
-    contributions: 0
-    company: "st.lawrence university"
     organizations: ""
 
   - rank: 11
@@ -130,11 +130,11 @@ users:
     organizations: ""
 
   - rank: 17
-    name: "Malish Alex"
-    login: "alexmalish24"
-    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
+    name: "gatkouth nyuel"
+    login: "gatkouth20"
+    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
     contributions: 0
-    company: "United Nations Mission in South Sudan"
+    company: "st.lawrence university"
     organizations: ""
 
   - rank: 18
@@ -186,19 +186,19 @@ users:
     organizations: ""
 
   - rank: 24
+    name: "Malish Alex"
+    login: "alexmalish24"
+    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
+    contributions: 0
+    company: "United Nations Mission in South Sudan"
+    organizations: ""
+
+  - rank: 25
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
     company: "U,D,S revolutionary"
-    organizations: ""
-
-  - rank: 25
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
     organizations: ""
 
   - rank: 26
@@ -218,6 +218,14 @@ users:
     organizations: ""
 
   - rank: 28
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 29
     name: ""
     login: "Nunas455"
     avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
@@ -225,28 +233,20 @@ users:
     company: "Gogirlict"
     organizations: ""
 
-  - rank: 29
-    name: "Dr Jacob Akuochpiir Achuoth Kok"
-    login: "jacobkok197"
-    avatarUrl: https://avatars.githubusercontent.com/u/242204003?u=85c0798eeb299eed54a6a4d5a7a6083c201720ec&v=4
-    contributions: 0
-    company: "Ministry of Health - South Sudan"
-    organizations: ""
-
   - rank: 30
-    name: "William Ror Jr"
-    login: "williams-ror"
-    avatarUrl: https://avatars.githubusercontent.com/u/197769484?u=872f66f48b961df81b2102f20a896c35ebb3102f&v=4
-    contributions: 0
-    company: "UniPod South Sudan"
-    organizations: ""
-
-  - rank: 31
     name: "NEXT GENERATION SOLUTIONS "
     login: "next-gen-solutions-coder"
     avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
     contributions: 0
     company: "Next Generation Solutions"
+    organizations: ""
+
+  - rank: 31
+    name: "William Ror Jr"
+    login: "williams-ror"
+    avatarUrl: https://avatars.githubusercontent.com/u/197769484?u=872f66f48b961df81b2102f20a896c35ebb3102f&v=4
+    contributions: 0
+    company: "UniPod South Sudan"
     organizations: ""
 
   - rank: 32
@@ -262,7 +262,7 @@ users_public_contributions:
     name: "Mathew Yelose"
     login: "mathyeoyel"
     avatarUrl: https://avatars.githubusercontent.com/u/103266724?u=1cc67f209f0ef8ce8077c1e94704556cbfa0dd9c&v=4
-    contributions: 140
+    contributions: 159
     company: "VikraHub"
     organizations: ""
 
@@ -299,6 +299,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 6
+    name: "Dr Jacob Akuochpiir Achuoth Kok"
+    login: "jacobkok197"
+    avatarUrl: https://avatars.githubusercontent.com/u/242204003?u=85c0798eeb299eed54a6a4d5a7a6083c201720ec&v=4
+    contributions: 3
+    company: "Ministry of Health - South Sudan"
+    organizations: ""
+
+  - rank: 7
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
@@ -306,20 +314,12 @@ users_public_contributions:
     company: "non governmental organization"
     organizations: ""
 
-  - rank: 7
+  - rank: 8
     name: "Chewaka fikadu "
     login: "chewaka14"
     avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
     contributions: 2
     company: ""
-    organizations: ""
-
-  - rank: 8
-    name: "Dr Jacob Akuochpiir Achuoth Kok"
-    login: "jacobkok197"
-    avatarUrl: https://avatars.githubusercontent.com/u/242204003?u=85c0798eeb299eed54a6a4d5a7a6083c201720ec&v=4
-    contributions: 1
-    company: "Ministry of Health - South Sudan"
     organizations: ""
 
   - rank: 9
@@ -491,19 +491,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 30
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
-    contributions: 0
-    company: "Gogirlict"
-    organizations: ""
-
-  - rank: 31
     name: "NEXT GENERATION SOLUTIONS "
     login: "next-gen-solutions-coder"
     avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
     contributions: 0
     company: "Next Generation Solutions"
+    organizations: ""
+
+  - rank: 31
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    contributions: 0
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 32
@@ -520,7 +520,7 @@ private_users:
     name: "Mathew Yelose"
     login: "mathyeoyel"
     avatarUrl: https://avatars.githubusercontent.com/u/103266724?u=1cc67f209f0ef8ce8077c1e94704556cbfa0dd9c&v=4
-    contributions: 140
+    contributions: 159
     company: "VikraHub"
     organizations: ""
 
@@ -557,6 +557,14 @@ private_users:
     organizations: ""
 
   - rank: 6
+    name: "Dr Jacob Akuochpiir Achuoth Kok"
+    login: "jacobkok197"
+    avatarUrl: https://avatars.githubusercontent.com/u/242204003?u=85c0798eeb299eed54a6a4d5a7a6083c201720ec&v=4
+    contributions: 3
+    company: "Ministry of Health - South Sudan"
+    organizations: ""
+
+  - rank: 7
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
@@ -564,20 +572,12 @@ private_users:
     company: "non governmental organization"
     organizations: ""
 
-  - rank: 7
+  - rank: 8
     name: "Chewaka fikadu "
     login: "chewaka14"
     avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
     contributions: 2
     company: ""
-    organizations: ""
-
-  - rank: 8
-    name: "Dr Jacob Akuochpiir Achuoth Kok"
-    login: "jacobkok197"
-    avatarUrl: https://avatars.githubusercontent.com/u/242204003?u=85c0798eeb299eed54a6a4d5a7a6083c201720ec&v=4
-    contributions: 1
-    company: "Ministry of Health - South Sudan"
     organizations: ""
 
   - rank: 9
@@ -749,19 +749,19 @@ private_users:
     organizations: ""
 
   - rank: 30
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
-    contributions: 0
-    company: "Gogirlict"
-    organizations: ""
-
-  - rank: 31
     name: "NEXT GENERATION SOLUTIONS "
     login: "next-gen-solutions-coder"
     avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
     contributions: 0
     company: "Next Generation Solutions"
+    organizations: ""
+
+  - rank: 31
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    contributions: 0
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 32
@@ -789,7 +789,7 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2026-06-23T22:59:35Z
+generated: 2026-06-28T16:05:36Z
 min_followers_required: 0
 total_user_count: 32
 title: South Sudan
